@@ -1,5 +1,6 @@
 # Horde-Hero
 Install Python from [here](https://www.python.org/downloads/)
+
 To play game, install pygame, you can do so in the terminal by typing pip install pygame
 
 Download the game by clicking Code then Download ZIP
