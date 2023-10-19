@@ -8,3 +8,7 @@ Download the game by clicking Code then Download ZIP
 Extract the game then click the extracted folder, click the folder after, then click main.py and the game will run
 
 Press A to move left, D to move right, W to jump, Press and hold Spacebar to attack
+
+Press O to respawn enemy when you killed an enemy, Press R to respawn when you die
+
+Enjoy!
